@@ -1,0 +1,91 @@
+df_name	unique_level6	sum_freq	P-SOLUBILISATION-ACETIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-ACETIC_ACID_TRANSPORT	P-SOLUBILISATION-ACONITIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-BUTYRIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-CARBONIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-CITRIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-EXOPOLYPHOSPHATASE	P-SOLUBILISATION-FORMIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-FUMARIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-FUMARIC_ACID_TRANSPORT	P-SOLUBILISATION-GALACTONIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-GLUCONIC_ACID-PQQ_PATHWAY	P-SOLUBILISATION-GLYCOLIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-GLYOXYLIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-INORGANIC_PHOSPHATASE	P-SOLUBILISATION-KETO-GLUCONATE_BIOSYNTHESIS	P-SOLUBILISATION-KETO-|OXOGLUTARATE_TRANSPORT	P-SOLUBILISATION-KETOGLUTARIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-LACTIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-LACTIC_ACID_TRANSPORT	P-SOLUBILISATION-MALIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-MALIC_ACID_TRANSPORT	P-SOLUBILISATION-MALONIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-MALONIC_ACID_TRANSPORT	P-SOLUBILISATION-NITRIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-OXALACETIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-OXALACETIC_ACID_TRANSPORT	P-SOLUBILISATION-PHOSPAHTE_HOMEOSTASIS|REGULATION	P-SOLUBILISATION-PHOSPHATE_TRANSPORT	P-SOLUBILISATION-PHOSPHONATE_DEGRADATION	P-SOLUBILISATION-PROPIONIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-PYRUVIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-SUCCINIC_ACID_ACID_BIOSYNTHESIS	P-SOLUBILISATION-SUCCINIC_ACID_ACID_TRANSPORT	P-SOLUBILISATION-SULFURIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-TARTARIC_ACID_TRANSPORT	P-SOLUBILISATION-VALERIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION-ALKALINE_PHOSPHATASE	K-SOLUBILISATION-SUCCINIC_ACID_ACID_BIOSYNTHESIS	P-SOLUBILISATION-CITRIC_ACID_TRANSPORT	P-SOLUBILISATION-GALACTONIC_ACID_TRANSPORT	P-SOLUBILISATION-TARTARIC_ACID_BIOSYNTHESIS	P-SOLUBILISATION_D_GLUCONATE_BIOSYNTHESIS	P-SOLUBILISATION-ACID_PHOSPHATASE	P-SOLUBILISATION-MALIC_ACID_TRASNPORT	P-SOLUBILISATION-PHOSPHONATE_TRANSPORT	P-SOLUBILISATION-PHYTASE_PRODUCTION	P-SOLUBILISATION-GLUCONIC_ACID_TRANSPORT	clearing
+BW01	122	257	13	3	5	8	3	5	2	13	7	1	1	12	6	2	1	4	1	2	5	2	6	1	6	1	5	3	1	11	10	3	24	45	18	1	8	3	15	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	no
+BW04	119	248	14	3	5	8	3	5	2	12	5	1	1	9	4	1	1	4	NA	1	5	2	6	1	6	3	7	4	1	12	10	3	24	40	18	1	8	3	14	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	no
+BW05	136	298	13	2	2	7	4	4	2	13	10	2	1	11	10	1	1	3	NA	2	10	2	7	2	7	2	3	4	2	10	14	4	24	66	17	2	8	7	10	1	2	1	3	1	1	NA	NA	NA	NA	NA	yes
+BW08	115	255	16	2	2	5	2	5	2	15	6	2	1	8	6	1	1	4	NA	3	4	2	6	2	6	3	7	5	2	15	10	3	21	43	18	2	10	4	11	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	no
+BW09	121	254	18	2	2	8	3	5	2	15	5	2	1	10	6	1	1	4	NA	2	4	2	6	2	6	3	5	4	2	13	11	4	23	38	17	2	10	4	9	1	NA	NA	1	NA	NA	NA	NA	NA	NA	NA	no
+BW13	110	253	19	2	2	5	3	5	2	14	6	3	1	10	7	1	1	2	NA	2	3	1	5	3	7	3	7	3	3	15	11	3	23	37	16	3	9	5	10	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	no
+BW14	140	301	16	2	2	8	3	6	2	15	8	2	1	12	10	1	1	3	NA	2	8	2	7	2	6	1	5	4	2	11	14	6	28	55	23	2	10	5	10	NA	1	NA	2	1	NA	NA	NA	2	NA	NA	yes
+BW15	127	260	12	2	2	8	2	6	2	10	8	2	1	11	5	1	1	3	NA	2	7	1	6	2	6	1	3	3	2	10	14	5	23	50	21	2	5	5	10	NA	1	NA	2	1	NA	NA	NA	2	NA	NA	yes
+BW23	114	199	9	2	2	6	2	4	2	6	6	1	1	8	3	1	1	3	NA	2	5	1	6	1	5	1	3	4	1	12	14	2	13	38	13	1	5	2	8	NA	1	NA	2	1	NA	NA	NA	1	NA	NA	no
+BW25	135	250	13	2	2	7	3	4	2	8	7	1	1	9	9	1	1	4	NA	2	7	2	7	1	6	2	5	5	1	11	14	5	18	46	16	1	10	3	10	NA	1	NA	1	NA	NA	NA	NA	1	NA	1	yes
+BW33	141	302	16	2	2	8	3	6	2	15	8	2	1	12	10	1	1	3	NA	2	8	2	7	2	6	1	5	4	2	12	14	6	28	55	23	2	10	5	10	NA	1	NA	2	1	NA	NA	NA	2	NA	NA	no
+BW37	154	359	26	2	3	11	3	6	3	12	10	1	1	11	12	1	1	4	2	3	13	3	13	1	12	1	8	11	1	17	21	5	22	63	23	1	11	2	7	1	1	NA	2	NA	NA	NA	2	5	NA	1	yes
+BW55	133	265	13	2	3	9	3	5	2	11	6	2	1	9	9	1	1	6	1	2	6	2	8	2	8	2	5	5	2	10	14	5	16	50	16	2	6	4	7	NA	2	1	2	NA	NA	1	1	1	1	NA	yes
+BW102	126	259	17	3	2	8	3	5	2	14	5	1	1	11	6	1	1	5	NA	2	5	2	6	1	6	3	5	4	1	12	11	3	23	48	17	1	9	3	10	1	NA	NA	NA	NA	NA	NA	NA	1	NA	NA	yes
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+BW48	126	259	17	3	2	8	3	5	2	14	5	1	1	11	6	1	1	5	NA	2	5	2	6	1	6	3	5	4	1	12	11	3	23	48	17	1	9	3	10	1	NA	NA	NA	NA	NA	NA	NA	1	NA	NA	no
